@@ -13,18 +13,18 @@ export const projectsData = [
         id: 1,
         projectName: "Movies",
         projectDesc: "Aplication that allows you to search for movies and shows, and save them in your favorites.",
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['React', 'CSS3', 'Material Ui'],
+        code: "https://api-movies-ten.vercel.app/",
         demo: "https://github.com/emanuelgimenez2/api-movies",
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: "App-weather",
+        projectDesc: "Aplication that allows you to search for weather in any city.",
+        tags: ['CSS3', 'React',  'BOOTSTRAP'],
+        code: "https://status-counter.vercel.app/",
+        demo: "https://github.com/emanuelgimenez2/statusCounter",
         image: two
     },
     {
