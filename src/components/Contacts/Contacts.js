@@ -81,7 +81,7 @@ function Contacts() {
             display: 'inline-flex',
         },
         socialIcon: {
-            width: '45px',
+            width: '60px',
             height: '45px',
             borderRadius: '50%',
             display: 'flex',
@@ -176,7 +176,7 @@ function Contacts() {
                                     Name
                                 </label>
                                 <input
-                                    placeholder='John Doe'
+                                    placeholder='Emanuel Gimenez'
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     type='text'
@@ -192,7 +192,7 @@ function Contacts() {
                                     Email
                                 </label>
                                 <input
-                                    placeholder='John@doe.com'
+                                    placeholder='emanuelgimenez2@gmail.com'
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                     type='email'

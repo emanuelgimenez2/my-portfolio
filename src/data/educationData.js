@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: "Facultad de Ciencia y Tecnología, Sede Concepción del Uruguay",
+        institution: "Facultad de Ciencia y Tecnología",
         course: "Licenciatura en Sistemas de Información",
         startYear: '2008',
         endYear: '2012'
@@ -9,14 +9,14 @@ export const educationData = [
     {
         id: 2,
         institution: "FreeCodeCamp.org",
-        course: "Responsive Web Design and JavaScript Algorithms and Data Structures",
+        course: "Responsive Web Design and JavaScript",
         startYear: '2020',
         endYear: '2020'
     },
     {
         id: 3,
         institution: "Google Actívate",
-        course: "Curso de Introducción al Desarrollo Web: HTML y CSS I Y II",
+        course: "Introducción al Desarrollo Web: HTML y CSS I Y II",
         startYear: '2021',
         endYear: '2021'
     },
@@ -30,7 +30,7 @@ export const educationData = [
     {
         id: 3,
         institution:"soyHenry",
-        course: "Full stack Developer",
+        course: "Full Stack Developer",
         startYear: '2022',
         endYear: 'Present'
     },

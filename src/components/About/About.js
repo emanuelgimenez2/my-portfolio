@@ -26,7 +26,7 @@ function About() {
                         src={aboutData.image === 1 ? theme.aboutimg1 : theme.aboutimg2}  
                         alt="" 
                     />
-                </div> */}
+                </div>  */}
             </div>
         </div>
 

@@ -20,7 +20,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: "App-weather",
+        projectName: "status Counter",
         projectDesc: "Aplication that allows you to search for weather in any city.",
         tags: ['CSS3', 'React',  'BOOTSTRAP'],
         code: "https://status-counter.vercel.app/",
@@ -41,8 +41,8 @@ export const projectsData = [
         projectName: 'Android Patient Tracker',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        // code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: four
     },
     {
