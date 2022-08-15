@@ -15,7 +15,7 @@ export const projectsData = [
         id: 1,
         projectName: "Movies",
         projectDesc: "Aplication that allows you to search for movies and shows, and save them in your favorites.",
-        tags: ['React', 'CSS3', 'Material Ui'],
+        tags: ['React', 'JavaScript', 'Material Ui'],
         code: "https://api-movies-ten.vercel.app/",
         demo: "https://github.com/emanuelgimenez2/api-movies",
         image: movies,
@@ -23,8 +23,8 @@ export const projectsData = [
     {
         id: 2,
         projectName: "E-commerce Wines",
-        projectDesc: "Aplication that allows you to search for weather in any city.",
-        tags: ['CSS3', 'React',  'Tailwindcss'],
+        projectDesc: "In the final group work in the Bootcamp, we developed wine e-commerce. Adding many technologies and APIs",
+        tags: ['JavaScript', 'React',  'Tailwindcss'],
         code: "https://pg-vinos.vercel.app/",
         demo: "https://github.com/emanuelgimenez2/PG-VINOS",
         image: wines
@@ -33,7 +33,7 @@ export const projectsData = [
         id: 3,
         projectName: 'Weather App',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
+        tags: ['JavaScript', 'CSS3', 'Bootstrap'],
         code: 'https://github.com/emanuelgimenez2/app-weather',
         demo: 'https://app-weather-one.vercel.app/',
         image: three
