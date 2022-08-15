@@ -1,11 +1,13 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
+// import one from '../assets/svg/projects/one.svg'
+// import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+// import four from '../assets/svg/projects/four.svg'
+// import five from '../assets/svg/projects/five.svg'
+// import six from '../assets/svg/projects/six.svg'
+// import seven from '../assets/svg/projects/seven.svg'
+// import eight from '../assets/svg/projects/eight.svg'
+import movies from "../assets/png/movies-page.jpg"
+import wines from "../assets/png/wines.jpg"
 
 
 export const projectsData = [
@@ -16,16 +18,16 @@ export const projectsData = [
         tags: ['React', 'CSS3', 'Material Ui'],
         code: "https://api-movies-ten.vercel.app/",
         demo: "https://github.com/emanuelgimenez2/api-movies",
-        image: one
+        image: movies,
     },
     {
         id: 2,
-        projectName: "status Counter",
+        projectName: "E-commerce Wines",
         projectDesc: "Aplication that allows you to search for weather in any city.",
-        tags: ['CSS3', 'React',  'BOOTSTRAP'],
-        code: "https://status-counter.vercel.app/",
-        demo: "https://github.com/emanuelgimenez2/statusCounter",
-        image: two
+        tags: ['CSS3', 'React',  'Tailwindcss'],
+        code: "https://pg-vinos.vercel.app/",
+        demo: "https://github.com/emanuelgimenez2/PG-VINOS",
+        image: wines
     },
     {
         id: 3,
