@@ -8,6 +8,7 @@ import three from '../assets/svg/projects/three.svg'
 // import eight from '../assets/svg/projects/eight.svg'
 import movies from "../assets/png/movies-page.jpg"
 import wines from "../assets/png/wines.jpg"
+import weather from "../assets/png/weather.jpg"
 
 
 export const projectsData = [
@@ -36,7 +37,7 @@ export const projectsData = [
         tags: ['JavaScript', 'CSS3', 'Bootstrap'],
         code: 'https://github.com/emanuelgimenez2/app-weather',
         demo: 'https://app-weather-one.vercel.app/',
-        image: three
+        image: weather
     },
     // {
     //     id: 4,
